@@ -67,9 +67,17 @@ for (var i = 1; i < 10; i += 2) {
 }
 
 #Count Backwards With a For Loop
+// Setup
+var myArray = [];
 
+// Only change code below this line
+var ourArray = [];
+for (var i = 9; i > 0; i -= 2) {
+  myArray.push(i);
+}
 
 #Iterate Through an Array with a For Loop
+
 
 #Nesting For Loops
 
